@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  web:
+    build:
+      context: ./
+      target: runner
+    volumes:
+      - .:/app
+    command: npm run dev
+    ports:
+      - "3001:3000"
+    environment:
+      - DATABASE_URL=postgresql://postgres:workload123@workload.czv2d7guamrq.ap-southeast-2.rds.amazonaws.com:5432/workload?schema=public
+      - SECRET_KEY=mysecret123

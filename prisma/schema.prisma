@@ -1,0 +1,148 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+// schema.prisma
+// Define the User entity
+model User {
+    id               Int       @id @default(autoincrement())
+    password         String
+    firstName        String
+    lastName         String
+    email            String    @unique
+    isVerified       Boolean   @default(false)
+    isApproved       Boolean   @default(false)
+    disabled         Boolean   @default(false)
+    verificationCode String?
+    resetToken       String? // Field to store the reset token
+    resetTokenExpiry DateTime?
+    meta             Json?
+    createdAt        DateTime? @default(now())
+    updatedAt        DateTime? @updatedAt
+
+    role_id  Int
+    faculty_id  Int
+    Workload Workload[]
+
+    role Role? @relation(fields: [role_id], references: [id])
+    faculty Faculty? @relation(fields: [faculty_id], references: [id])
+
+    @@map("users")
+}
+
+// Define the Role entity
+model Role {
+    id          Int     @id @default(autoincrement())
+    roleName    String
+    roleCode    String
+    description String?
+    // Define the many-to-many relationship with Permission
+    isVisible   Boolean @default(true)
+    User        User[]
+
+    @@unique([roleCode])
+    @@map("roles")
+}
+
+model Faculty {
+    id          Int     @id @default(autoincrement())
+    name        String
+    description String?
+
+    disciplines Discipline[]
+
+    User        User[]
+}
+
+model Discipline {
+    id          Int     @id @default(autoincrement())
+    name        String
+    description String?
+
+    unit_offering        Int?
+    scheduling_required  Int?
+    ready_for_publishing Int?
+
+    faculty   Faculty? @relation(fields: [facultyId], references: [id])
+    facultyId Int? // This field stores the foreign key to faculty
+
+    units Unit[]
+
+    @@unique([name])
+}
+
+model Unit {
+    id          Int     @id @default(autoincrement())
+    name        String
+    description String?
+    type        String?
+    unit_code   Int?
+    meta        Json?
+
+    discipline   Discipline? @relation(fields: [disciplineId], references: [id])
+    disciplineId Int? // This field stores the foreign key to discipline
+
+    @@unique([unit_code, type])
+}
+
+// appoinment types are EF, ER, RF
+model AppointmentType {
+    id Int @id @default(autoincrement())
+
+    short_name  String?
+    long_name   String?
+    description String?
+    meta        Json?
+
+    appointments Appointment[]
+
+    @@unique([short_name])
+}
+
+model Appointment {
+    id          Int     @id @default(autoincrement())
+    name        String
+    description String?
+    meta        Json?
+
+    appointment_type  AppointmentType? @relation(fields: [appointmentTypeId], references: [id])
+    appointmentTypeId Int? // This field stores the foreign key to appointment_type
+}
+
+// configuration model
+model Config {
+    id          Int     @id @default(autoincrement())
+    description String?
+    key         String  @unique
+    value       String?
+    meta        Json?
+}
+
+// worklaod
+model Workload {
+    id         Int            @id @default(autoincrement())
+    user_id    Int
+    status     WorkloadStatus
+    created_at DateTime?      @default(now())
+    updated_at DateTime?      @updatedAt
+    meta       Json?
+    reason     String?
+
+    user User @relation(fields: [user_id], references: [id])
+}
+
+// define status enum for workload
+enum WorkloadStatus {
+    DRAFT
+    PENDING
+    APPROVED
+    REJECTED
+}

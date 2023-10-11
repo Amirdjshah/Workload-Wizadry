@@ -1,0 +1,31 @@
+.productDetail {
+  padding-top: 1.25rem;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.headerSection {
+  margin-bottom: 2.5rem;
+}
+.variantSection {
+  margin-bottom: 2rem;
+}
+.actionBarSection {
+  display: flex;
+  margin-top: 1rem;
+  flex-direction: row;
+  & > button {
+    min-width: 300px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .actionBarSection > button {
+    width: 100%;
+  }
+}

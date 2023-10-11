@@ -1,0 +1,252 @@
+:root {
+  --primary-color: #004f71;
+  --light-primary-color: #e0edee;
+  /* --light-primary-color: #2148C0; */
+}
+
+body {
+  margin: 0;
+}
+a,
+h1,
+p {
+  font-family: "Roboto", sans-serif;
+}
+h1,
+.MuiTypography-h1 {
+  font-weight: bold;
+  font-family: "sans-serif", sans-serif;
+  font-size: 32px;
+}
+
+.primary-bg {
+  background: var(--primary-color);
+}
+a {
+  text-decoration: none;
+}
+
+.algolia-search-box,
+.algolia-search-box input:active {
+  border-style: hidden;
+}
+
+.algolia-search-box input,
+.algolia-search-box input:active {
+  height: 2.5rem;
+  align-self: center;
+  padding-left: 2.5rem;
+  padding-right: 1rem;
+  background-color: rgba(0, 0, 0, 0);
+  width: 100%;
+}
+.algolia-search-box button[type="submit"],
+.algolia-search-box button[type="reset"] {
+  display: none;
+}
+
+.algolia-search-box input:focus-visible {
+  outline: none;
+}
+.product-card-group .ais-Hits,
+.product-card-group .ais-Hits-list {
+  width: 100%;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0;
+}
+
+.product-card-group .ais-Hits-item {
+  list-style: none;
+  flex-grow: 1;
+  width: 20%;
+  margin-right: 2rem;
+  margin-top: 1rem;
+  min-width: 250px;
+  max-width: 350px;
+}
+@media screen and (max-width: 1200px) {
+  .product-card-group .ais-Hits-item {
+    width: 30%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .product-card-group .ais-Hits-item {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .product-card-group .ais-Hits-list {
+    flex-direction: column;
+  }
+  .product-card-group .ais-Hits-item {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+/* THEME OVERRIDE */
+/* THEME OVERRIDE */
+
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.MuiStepLabel-iconContainer .Mui-completed.MuiSvgIcon-root {
+  color: #1bcd58;
+}
+.MuiStepLabel-iconContainer .Mui-active.MuiSvgIcon-root {
+  color: gray;
+}
+
+.toast * {
+  font-family: "Roboto";
+}
+
+.MuiDataGrid-virtualScroller {
+  min-height: 10rem;
+}
+
+.ais-Hits-item {
+  align-items: inherit;
+  background: initial !important;
+  box-shadow: none !important;
+  display: initial !important;
+  font-size: initial;
+  font-weight: initial;
+  line-height: initial;
+  padding: inherit !important;
+  margin-bottom: 1rem;
+}
+
+body {
+  overflow-y: auto !important;
+}
+
+.ais-Pagination {
+  margin: auto;
+}
+.ais-searchbox-input,
+.ais-SearchBox-input {
+  border-radius: 2rem !important;
+  border: 1px solid #cecece !important;
+  box-shadow: none !important;
+}
+
+.ais-SearchBox-form::before {
+  top: 50% !important;
+}
+
+.ais-Stats-text {
+  color: gray;
+}
+
+.quotation-table {
+  width: 100%;
+}
+.quotation-table .MuiDataGrid-root {
+  border-style: none;
+}
+.quotation-table .MuiDataGrid-footerContainer {
+  display: none;
+}
+.MuiDataGrid-cell:focus {
+  outline: none !important;
+}
+.ais-RefinementList-label {
+  margin-bottom: 0.5rem;
+}
+.ais-RefinementList-checkbox {
+  box-shadow: none !important;
+}
+
+.quotes-note {
+  padding-right: 0.5rem;
+}
+.quotes-note * {
+  font-size: 14px;
+}
+.quotes-note a {
+  color: #004f71;
+}
+
+.MuiChip-label {
+  text-transform: capitalize;
+}
+
+main {
+  min-height: 100vh;
+  background: linear-gradient(137deg, #fff 0%, #f4fcff 59.31%, #f9fdff 100%);
+}
+
+.MuiDataGrid-columnHeaderTitleContainer {
+  font-size: 0.95rem;
+}
+
+.quotation-table .MuiDataGrid-columnHeadersInner {
+  background-color: #e0edee;
+}
+.product-filter {
+  border: 1px solid rgb(211, 211, 211);
+  border-radius: 5px;
+  height: fit-content;
+  padding: 0rem 1.6rem;
+  margin-top: 1rem;
+}
+.product-filter * {
+  font-size: 0.9rem;
+}
+.product-filter .ais-Panel-header {
+  font-size: 1rem !important;
+  margin-top: 1.5rem;
+  text-transform: capitalize;
+}
+
+.product-filter .ais-RefinementList-item .ais-RefinementList-label {
+  margin-block: 1rem !important;
+}
+
+.product-filter .ais-RefinementList-searchBox {
+  margin: 1.5rem 1.5rem;
+  margin-left: 0rem;
+}
+
+.product-filter .ais-RefinementList-count {
+  margin-left: 1rem;
+  padding: 0.25rem 0.6rem;
+}
+.main-delivery-status-pill {
+  border-radius: 0px !important;
+  margin-left: 0.5rem;
+}
+
+.ql-editor {
+  min-height: 12rem !important;
+  font-size: 1rem;
+}
+
+.MuiStepLabel-iconContainer.Mui-active svg {
+  color: #26cd58 !important;
+}
+
+.error-snackbar {
+  background-color: #e35205 !important;
+  color: white;
+}
+
+.success-snackbar {
+  background-color: #008eaa !important;
+  color: white;
+}
+.pointer:hover {
+  cursor: pointer;
+}
+
+.border-card {
+  border: "1px solid lightgray";
+  padding: "1rem";
+  border-radius: "5px";
+}

@@ -1,0 +1,7 @@
+.cartItem {
+  padding: 1rem 1rem;
+  border-bottom: 1px solid rgb(233, 233, 233);
+  &:hover {
+    background-color: rgba(243, 243, 243, 0.678);
+  }
+}

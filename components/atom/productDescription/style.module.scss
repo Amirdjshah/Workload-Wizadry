@@ -1,0 +1,21 @@
+.productDescription {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  min-height: 8rem;
+}
+
+.content {
+  padding: 0.5rem 0;
+  margin-top: 0.5rem;
+  border-radius: 5px;
+}
+
+.attributeItem,
+.attributeItem * {
+  font-weight: 400;
+  padding: 2px;
+}
+
+.label {
+  min-width: 8em;
+}

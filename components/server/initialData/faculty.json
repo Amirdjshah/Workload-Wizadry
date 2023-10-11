@@ -1,0 +1,4352 @@
+[
+ {
+   "unit_code": 10001,
+   "name": "Environmental and Forensic Genetics/ON-CAMPUS/BRUCE/10001",
+   "description": "10001/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab with Echo"
+ },
+ {
+   "unit_code": 10001,
+   "name": "Environmental and Forensic Genetics/ON-CAMPUS/BRUCE/10001",
+   "description": "10001/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop with Echo"
+ },
+ {
+   "unit_code": 10003,
+   "name": "Digital Signal Processing/ON-CAMPUS/BRUCE/10003",
+   "description": "10003/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10003,
+   "name": "Digital Signal Processing/ON-CAMPUS/BRUCE/10003",
+   "description": "10003/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10003,
+   "name": "Digital Signal Processing/ON-CAMPUS/BRUCE/10003",
+   "description": "10003/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10003,
+   "name": "Digital Signal Processing/ON-CAMPUS/BRUCE/10003",
+   "description": "10003/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10004,
+   "name": "Engineering Project (Part A)/ON-CAMPUS/BRUCE/10004",
+   "description": "10004/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 10004,
+   "name": "Engineering Project (Part A)/ON-CAMPUS/BRUCE/10004",
+   "description": "10004/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10004,
+   "name": "Engineering Project (Part A)/ON-CAMPUS/BRUCE/10004",
+   "description": "10004/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Virtual Workshop"
+ },
+ {
+   "unit_code": 10004,
+   "name": "Engineering Project (Part A)/ON-CAMPUS/BRUCE/10004",
+   "description": "10004/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/07",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10005,
+   "name": "Engineering Project (Part B)/ON-CAMPUS/BRUCE/10005",
+   "description": "10005/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 10005,
+   "name": "Engineering Project (Part B)/ON-CAMPUS/BRUCE/10005",
+   "description": "10005/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10005,
+   "name": "Engineering Project (Part B)/ON-CAMPUS/BRUCE/10005",
+   "description": "10005/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Virtual Workshop"
+ },
+ {
+   "unit_code": 10005,
+   "name": "Engineering Project (Part B)/ON-CAMPUS/BRUCE/10005",
+   "description": "10005/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/07",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 10087,
+   "name": "Engineering Mathematics/ON-CAMPUS/BRUCE/10087",
+   "description": "10087/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 10088,
+   "name": "Introduction to Network Engineering G/ON-CAMPUS/BRUCE/10088",
+   "description": "10088/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10088,
+   "name": "Introduction to Network Engineering G/ON-CAMPUS/BRUCE/10088",
+   "description": "10088/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 10088,
+   "name": "Introduction to Network Engineering G/ON-CAMPUS/BRUCE/10088",
+   "description": "10088/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 10090,
+   "name": "Engineering Mathematics G/ON-CAMPUS/BRUCE/10090",
+   "description": "10090/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10090,
+   "name": "Engineering Mathematics G/ON-CAMPUS/BRUCE/10090",
+   "description": "10090/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10091,
+   "name": "Electronics Systems G/ON-CAMPUS/BRUCE/10091",
+   "description": "10091/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/01",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 10091,
+   "name": "Electronics Systems G/ON-CAMPUS/BRUCE/10091",
+   "description": "10091/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/02",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 10091,
+   "name": "Electronics Systems G/ON-CAMPUS/BRUCE/10091",
+   "description": "10091/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/03",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 10091,
+   "name": "Electronics Systems G/ON-CAMPUS/BRUCE/10091",
+   "description": "10091/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10095,
+   "name": "Digital Signal Processing G/ON-CAMPUS/BRUCE/10095",
+   "description": "10095/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10095,
+   "name": "Digital Signal Processing G/ON-CAMPUS/BRUCE/10095",
+   "description": "10095/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10095,
+   "name": "Digital Signal Processing G/ON-CAMPUS/BRUCE/10095",
+   "description": "10095/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10095,
+   "name": "Digital Signal Processing G/ON-CAMPUS/BRUCE/10095",
+   "description": "10095/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10098,
+   "name": "Engineering Project PG/ON-CAMPUS/BRUCE/10098",
+   "description": "10098/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 10098,
+   "name": "Engineering Project PG/ON-CAMPUS/BRUCE/10098",
+   "description": "10098/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10098,
+   "name": "Engineering Project PG/ON-CAMPUS/BRUCE/10098",
+   "description": "10098/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Virtual Workshop"
+ },
+ {
+   "unit_code": 10098,
+   "name": "Engineering Project PG/ON-CAMPUS/BRUCE/10098",
+   "description": "10098/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/05",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10098,
+   "name": "Engineering Project PG/ON-CAMPUS/BRUCE/10098",
+   "description": "10098/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/06",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10100,
+   "name": "Wireless Networks PG/ON-CAMPUS/BRUCE/10100",
+   "description": "10100/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 10100,
+   "name": "Wireless Networks PG/ON-CAMPUS/BRUCE/10100",
+   "description": "10100/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10100,
+   "name": "Wireless Networks PG/ON-CAMPUS/BRUCE/10100",
+   "description": "10100/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10100,
+   "name": "Wireless Networks PG/ON-CAMPUS/BRUCE/10100",
+   "description": "10100/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/03",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10100,
+   "name": "Wireless Networks PG/ON-CAMPUS/BRUCE/10100",
+   "description": "10100/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 10222,
+   "name": "Biostatistics/ON-CAMPUS/BRUCE/10222",
+   "description": "10222/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10222,
+   "name": "Biostatistics/ON-CAMPUS/BRUCE/10222",
+   "description": "10222/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10222,
+   "name": "Biostatistics/ON-CAMPUS/BRUCE/10222",
+   "description": "10222/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10222,
+   "name": "Biostatistics/ON-CAMPUS/BRUCE/10222",
+   "description": "10222/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10222,
+   "name": "Biostatistics/ON-CAMPUS/BRUCE/10222",
+   "description": "10222/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10230,
+   "name": "Spatial Analysis/ON-CAMPUS/BRUCE/10230",
+   "description": "10230/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10230,
+   "name": "Spatial Analysis/ON-CAMPUS/BRUCE/10230",
+   "description": "10230/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 10230,
+   "name": "Spatial Analysis/ON-CAMPUS/BRUCE/10230",
+   "description": "10230/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/EXAM/01",
+   "type": "Exam"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/03",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 10288,
+   "name": "Pathology, Immunology and Microbiology/ON-CAMPUS/BRUCE/10288",
+   "description": "10288/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11366,
+   "name": "Enterprise Systems/ON-CAMPUS/BRUCE/11366",
+   "description": "11366/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11366,
+   "name": "Enterprise Systems/ON-CAMPUS/BRUCE/11366",
+   "description": "11366/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11366,
+   "name": "Enterprise Systems/ON-CAMPUS/BRUCE/11366",
+   "description": "11366/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11366,
+   "name": "Enterprise Systems/ON-CAMPUS/BRUCE/11366",
+   "description": "11366/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11366,
+   "name": "Enterprise Systems/ON-CAMPUS/BRUCE/11366",
+   "description": "11366/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11370,
+   "name": "Foundations of Robotics/ON-CAMPUS/BRUCE/11370",
+   "description": "11370/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11370,
+   "name": "Foundations of Robotics/ON-CAMPUS/BRUCE/11370",
+   "description": "11370/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11370,
+   "name": "Foundations of Robotics/ON-CAMPUS/BRUCE/11370",
+   "description": "11370/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11370,
+   "name": "Foundations of Robotics/ON-CAMPUS/BRUCE/11370",
+   "description": "11370/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11370,
+   "name": "Foundations of Robotics/ON-CAMPUS/BRUCE/11370",
+   "description": "11370/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11372,
+   "name": "Introduction to Data Science/ON-CAMPUS/BRUCE/11372",
+   "description": "11372/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11372,
+   "name": "Introduction to Data Science/ON-CAMPUS/BRUCE/11372",
+   "description": "11372/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11372,
+   "name": "Introduction to Data Science/ON-CAMPUS/BRUCE/11372",
+   "description": "11372/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11372,
+   "name": "Introduction to Data Science/ONLINE/BRUCE/11372",
+   "description": "11372/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11372,
+   "name": "Introduction to Data Science/ONLINE/BRUCE/11372",
+   "description": "11372/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11374,
+   "name": "Exploratory Data Analysis and Visualisation/ON-CAMPUS/BRUCE/11374",
+   "description": "11374/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11374,
+   "name": "Exploratory Data Analysis and Visualisation/ON-CAMPUS/BRUCE/11374",
+   "description": "11374/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11374,
+   "name": "Exploratory Data Analysis and Visualisation/ON-CAMPUS/BRUCE/11374",
+   "description": "11374/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11376,
+   "name": "Computer Vision and Image Analysis/ON-CAMPUS/BRUCE/11376",
+   "description": "11376/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11376,
+   "name": "Computer Vision and Image Analysis/ON-CAMPUS/BRUCE/11376",
+   "description": "11376/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11376,
+   "name": "Computer Vision and Image Analysis/ON-CAMPUS/BRUCE/11376",
+   "description": "11376/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11376,
+   "name": "Computer Vision and Image Analysis/ON-CAMPUS/BRUCE/11376",
+   "description": "11376/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop with Echo"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ON-CAMPUS/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ONLINE/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ONLINE/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11408,
+   "name": "Technological Innovation and Entrepreneurship/ONLINE/BRUCE/11408",
+   "description": "11408/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11481,
+   "name": "Workflow and Process Management/ON-CAMPUS/BRUCE/11481",
+   "description": "11481/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11481,
+   "name": "Workflow and Process Management/ON-CAMPUS/BRUCE/11481",
+   "description": "11481/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11481,
+   "name": "Workflow and Process Management/ON-CAMPUS/BRUCE/11481",
+   "description": "11481/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11481,
+   "name": "Workflow and Process Management/ON-CAMPUS/BRUCE/11481",
+   "description": "11481/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11481,
+   "name": "Workflow and Process Management/ON-CAMPUS/BRUCE/11481",
+   "description": "11481/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11481,
+   "name": "Workflow and Process Management/ON-CAMPUS/BRUCE/11481",
+   "description": "11481/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/08",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/09",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/10",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/12",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/13",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11485,
+   "name": "Introduction to Network Engineering/ON-CAMPUS/BRUCE/11485",
+   "description": "11485/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/14",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ONLINE/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ONLINE/DROP_IN_SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ON-CAMPUS/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ON-CAMPUS/LECTURE/03",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ONLINE/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ONLINE/LECTURE/03",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ONLINE/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ONLINE/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11486,
+   "name": "Systems Analysis and Modelling/ONLINE/BRUCE/11486",
+   "description": "11486/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11489,
+   "name": "System Software/ON-CAMPUS/BRUCE/11489",
+   "description": "11489/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11489,
+   "name": "System Software/ON-CAMPUS/BRUCE/11489",
+   "description": "11489/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11489,
+   "name": "System Software/ON-CAMPUS/BRUCE/11489",
+   "description": "11489/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11489,
+   "name": "System Software/ON-CAMPUS/BRUCE/11489",
+   "description": "11489/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11489,
+   "name": "System Software/ON-CAMPUS/BRUCE/11489",
+   "description": "11489/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11489,
+   "name": "System Software/ON-CAMPUS/BRUCE/11489",
+   "description": "11489/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11492,
+   "name": "Mobile Technologies/ON-CAMPUS/BRUCE/11492",
+   "description": "11492/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/08",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/09",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/10",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/11",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11510,
+   "name": "Enterprise and Cloud Computing PG/ON-CAMPUS/BRUCE/11510",
+   "description": "11510/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/12",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11511,
+   "name": "Internet of Things/ON-CAMPUS/BRUCE/11511",
+   "description": "11511/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11511,
+   "name": "Internet of Things/ON-CAMPUS/BRUCE/11511",
+   "description": "11511/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11511,
+   "name": "Internet of Things/ON-CAMPUS/BRUCE/11511",
+   "description": "11511/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11513,
+   "name": "Internet of Things PG/ON-CAMPUS/BRUCE/11513",
+   "description": "11513/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11513,
+   "name": "Internet of Things PG/ON-CAMPUS/BRUCE/11513",
+   "description": "11513/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11513,
+   "name": "Internet of Things PG/ON-CAMPUS/BRUCE/11513",
+   "description": "11513/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ON-CAMPUS/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ON-CAMPUS/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ON-CAMPUS/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ON-CAMPUS/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ON-CAMPUS/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ONLINE/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11516,
+   "name": "Introduction to Data Science G/ONLINE/BRUCE/11516",
+   "description": "11516/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11517,
+   "name": "Exploratory Data Analysis and Visualisation G/ON-CAMPUS/BRUCE/11517",
+   "description": "11517/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11517,
+   "name": "Exploratory Data Analysis and Visualisation G/ON-CAMPUS/BRUCE/11517",
+   "description": "11517/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11517,
+   "name": "Exploratory Data Analysis and Visualisation G/ON-CAMPUS/BRUCE/11517",
+   "description": "11517/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11517,
+   "name": "Exploratory Data Analysis and Visualisation G/ON-CAMPUS/BRUCE/11517",
+   "description": "11517/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11518,
+   "name": "Enterprise Systems G/ON-CAMPUS/BRUCE/11518",
+   "description": "11518/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11518,
+   "name": "Enterprise Systems G/ON-CAMPUS/BRUCE/11518",
+   "description": "11518/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11518,
+   "name": "Enterprise Systems G/ON-CAMPUS/BRUCE/11518",
+   "description": "11518/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11518,
+   "name": "Enterprise Systems G/ON-CAMPUS/BRUCE/11518",
+   "description": "11518/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11518,
+   "name": "Enterprise Systems G/ON-CAMPUS/BRUCE/11518",
+   "description": "11518/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Hybrid Drop in Session"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Hybrid Drop in Session"
+ },
+ {
+   "unit_code": 11520,
+   "name": "Data Capture and Preparations G/ON-CAMPUS/BRUCE/11520",
+   "description": "11520/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11522,
+   "name": "Technology Capstone Research Project PG/ON-CAMPUS/BRUCE/11522",
+   "description": "11522/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 11522,
+   "name": "Technology Capstone Research Project PG/ON-CAMPUS/BRUCE/11522",
+   "description": "11522/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11522,
+   "name": "Technology Capstone Research Project PG/ON-CAMPUS/BRUCE/11522",
+   "description": "11522/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Virtual Workshop"
+ },
+ {
+   "unit_code": 11522,
+   "name": "Technology Capstone Research Project PG/ON-CAMPUS/BRUCE/11522",
+   "description": "11522/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11522,
+   "name": "Technology Capstone Research Project PG/ON-CAMPUS/BRUCE/11522",
+   "description": "11522/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/05",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11522,
+   "name": "Technology Capstone Research Project PG/ON-CAMPUS/BRUCE/11522",
+   "description": "11522/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/06",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11528,
+   "name": "Foundations of Robotics G/ON-CAMPUS/BRUCE/11528",
+   "description": "11528/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11528,
+   "name": "Foundations of Robotics G/ON-CAMPUS/BRUCE/11528",
+   "description": "11528/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11529,
+   "name": "Workflow and Process Management G/ON-CAMPUS/BRUCE/11529",
+   "description": "11529/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11529,
+   "name": "Workflow and Process Management G/ON-CAMPUS/BRUCE/11529",
+   "description": "11529/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11529,
+   "name": "Workflow and Process Management G/ON-CAMPUS/BRUCE/11529",
+   "description": "11529/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11529,
+   "name": "Workflow and Process Management G/ON-CAMPUS/BRUCE/11529",
+   "description": "11529/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11529,
+   "name": "Workflow and Process Management G/ON-CAMPUS/BRUCE/11529",
+   "description": "11529/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11529,
+   "name": "Workflow and Process Management G/ON-CAMPUS/BRUCE/11529",
+   "description": "11529/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ON-CAMPUS/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ON-CAMPUS/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ON-CAMPUS/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ON-CAMPUS/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ON-CAMPUS/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ON-CAMPUS/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ONLINE/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11530,
+   "name": "Technological Innovation and Entrepreneurship G/ONLINE/BRUCE/11530",
+   "description": "11530/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11622,
+   "name": "Introduction to Cyber Safety/ONLINE/BRUCE/11622",
+   "description": "11622/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11622,
+   "name": "Introduction to Cyber Safety/ONLINE/BRUCE/11622",
+   "description": "11622/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11622,
+   "name": "Introduction to Cyber Safety/ONLINE/BRUCE/11622",
+   "description": "11622/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11623,
+   "name": "Introduction to Cyber Safety G/ONLINE/BRUCE/11623",
+   "description": "11623/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11623,
+   "name": "Introduction to Cyber Safety G/ONLINE/BRUCE/11623",
+   "description": "11623/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11623,
+   "name": "Introduction to Cyber Safety G/ONLINE/BRUCE/11623",
+   "description": "11623/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11623,
+   "name": "Introduction to Cyber Safety G/ONLINE/BRUCE/11623",
+   "description": "11623/BRUCE/SEM-1/ONLINE/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11700,
+   "name": "Introduction to Information Technology (APP) (Part B)/ON-CAMPUS/BRUCE/11700",
+   "description": "11700/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11718,
+   "name": "Professional Orientation (Science)/ON-CAMPUS/BRUCE/11718",
+   "description": "11718/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11718,
+   "name": "Professional Orientation (Science)/ON-CAMPUS/BRUCE/11718",
+   "description": "11718/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11718,
+   "name": "Professional Orientation (Science)/ON-CAMPUS/BRUCE/11718",
+   "description": "11718/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/02",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11718,
+   "name": "Professional Orientation (Science)/ON-CAMPUS/BRUCE/11718",
+   "description": "11718/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/03",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11720,
+   "name": "Professional Practice 2 (Science)/ON-CAMPUS/BRUCE/11720",
+   "description": "11720/BRUCE/SEM-1/ON-CAMPUS/DROP_IN-SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11720,
+   "name": "Professional Practice 2 (Science)/ON-CAMPUS/BRUCE/11720",
+   "description": "11720/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11720,
+   "name": "Professional Practice 2 (Science)/ON-CAMPUS/BRUCE/11720",
+   "description": "11720/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PALS/01",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PALS/02",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PALS/03",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PALS/04",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PALS/05",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PALS/06",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/03",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/04",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/05",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/06",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/07",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/08",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/09",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/02",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/03",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/05",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11722,
+   "name": "Biological Concepts/ON-CAMPUS/BRUCE/11722",
+   "description": "11722/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/06",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11723,
+   "name": "Data Analysis Skills for Science/ON-CAMPUS/BRUCE/11723",
+   "description": "11723/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11723,
+   "name": "Data Analysis Skills for Science/ON-CAMPUS/BRUCE/11723",
+   "description": "11723/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11723,
+   "name": "Data Analysis Skills for Science/ON-CAMPUS/BRUCE/11723",
+   "description": "11723/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11723,
+   "name": "Data Analysis Skills for Science/ON-CAMPUS/BRUCE/11723",
+   "description": "11723/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/EXAM/01",
+   "type": "Exam"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/EXAM/01",
+   "type": "Exam"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/02",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/03",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11725,
+   "name": "Contextual Physics with Mathematics/ON-CAMPUS/BRUCE/11725",
+   "description": "11725/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/05",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/03",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/VIRTUAL_DROP_IN-SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/VIRTUAL_DROP_IN-SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11726,
+   "name": "Integrated Physiology/ON-CAMPUS/BRUCE/11726",
+   "description": "11726/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11727,
+   "name": "Mechanisms of Disease/ON-CAMPUS/BRUCE/11727",
+   "description": "11727/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11727,
+   "name": "Mechanisms of Disease/ON-CAMPUS/BRUCE/11727",
+   "description": "11727/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11727,
+   "name": "Mechanisms of Disease/ON-CAMPUS/BRUCE/11727",
+   "description": "11727/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture A"
+ },
+ {
+   "unit_code": 11727,
+   "name": "Mechanisms of Disease/ON-CAMPUS/BRUCE/11727",
+   "description": "11727/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture B"
+ },
+ {
+   "unit_code": 11727,
+   "name": "Mechanisms of Disease/ON-CAMPUS/BRUCE/11727",
+   "description": "11727/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11727,
+   "name": "Mechanisms of Disease/ON-CAMPUS/BRUCE/11727",
+   "description": "11727/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/01",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/02",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/03",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/PALS/01",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/PALS/02",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/PALS/03",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/PALS/04",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11733,
+   "name": "Fundamentals of Biochemistry/ON-CAMPUS/BRUCE/11733",
+   "description": "11733/BRUCE/SEM-1/ON-CAMPUS/PALS/05",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11759,
+   "name": "Information Security/ON-CAMPUS/BRUCE/11759",
+   "description": "11759/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/07",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/03",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 11768,
+   "name": "Chemical Foundations/ON-CAMPUS/BRUCE/11768",
+   "description": "11768/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop with Echo"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 11769,
+   "name": "Chemical Analysis/ON-CAMPUS/BRUCE/11769",
+   "description": "11769/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11771,
+   "name": "Meeting Environmental Challenges: Foundations/ON-CAMPUS/BRUCE/11771",
+   "description": "11771/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11771,
+   "name": "Meeting Environmental Challenges: Foundations/ON-CAMPUS/BRUCE/11771",
+   "description": "11771/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11771,
+   "name": "Meeting Environmental Challenges: Foundations/ON-CAMPUS/BRUCE/11771",
+   "description": "11771/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11771,
+   "name": "Meeting Environmental Challenges: Foundations/ON-CAMPUS/BRUCE/11771",
+   "description": "11771/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11771,
+   "name": "Meeting Environmental Challenges: Foundations/ON-CAMPUS/BRUCE/11771",
+   "description": "11771/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/FIELD_TRIP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/SEMINAR_A/01",
+   "type": "Seminar with Echo"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/SEMINAR_B/01",
+   "type": "Seminar with Echo"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11773,
+   "name": "Applied Ecology/ON-CAMPUS/BRUCE/11773",
+   "description": "11773/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/01",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/02",
+   "type": "Field Trip"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/PRESENTATION/01",
+   "type": "Presentation with Echo"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11775,
+   "name": "Environmental Tools and Technologies/ON-CAMPUS/BRUCE/11775",
+   "description": "11775/BRUCE/SEM-1/ON-CAMPUS/GROUP/02",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11875,
+   "name": "Research Honours in Science and Technology - Research Methodology/RESEARCH/BRUCE/11875",
+   "description": "11875/BRUCE/SEM-1/RESEARCH/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/03",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/VIRTUAL_DROP_IN-SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/VIRTUAL_DROP_IN-SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 11893,
+   "name": "Integrated Physiology G/ON-CAMPUS/BRUCE/11893",
+   "description": "11893/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/01",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/02",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/03",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/PALS/01",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/PALS/02",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/PALS/03",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/PALS/04",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 11894,
+   "name": "Fundamentals of Biochemistry G/ON-CAMPUS/BRUCE/11894",
+   "description": "11894/BRUCE/SEM-1/ON-CAMPUS/PALS/05",
+   "type": "PALS"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/08",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/10",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ON-CAMPUS/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/09",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ONLINE/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ONLINE/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ONLINE/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 4478,
+   "name": "Introduction to Information Technology/ONLINE/BRUCE/4478",
+   "description": "4478/BRUCE/SEM-1/ONLINE/TUTORIAL/03",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ONLINE/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ONLINE/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ONLINE/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ONLINE/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ON-CAMPUS/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 4483,
+   "name": "Software Technology 1/ONLINE/BRUCE/4483",
+   "description": "4483/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 4774,
+   "name": "Research Honours in Applied Science:PT/ON-CAMPUS/BRUCE/4774",
+   "description": "4774/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 577,
+   "name": "Mathematical Methods/ON-CAMPUS/BRUCE/577",
+   "description": "577/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 577,
+   "name": "Mathematical Methods/ON-CAMPUS/BRUCE/577",
+   "description": "577/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 577,
+   "name": "Mathematical Methods/ON-CAMPUS/BRUCE/577",
+   "description": "577/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/07",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/08",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/09",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/10",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/14",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ONLINE/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ON-CAMPUS/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/12",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ONLINE/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 5915,
+   "name": "Database Design/ONLINE/BRUCE/5915",
+   "description": "5915/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6389,
+   "name": "Designing Human-Computer Interaction/ON-CAMPUS/BRUCE/6389",
+   "description": "6389/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/07",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6512,
+   "name": "Immunology/ON-CAMPUS/BRUCE/6512",
+   "description": "6512/BRUCE/SEM-1/ON-CAMPUS/EXAM/01",
+   "type": "Exam"
+ },
+ {
+   "unit_code": 6512,
+   "name": "Immunology/ON-CAMPUS/BRUCE/6512",
+   "description": "6512/BRUCE/SEM-1/ON-CAMPUS/LECTURE_A/01",
+   "type": "Lecture A"
+ },
+ {
+   "unit_code": 6512,
+   "name": "Immunology/ON-CAMPUS/BRUCE/6512",
+   "description": "6512/BRUCE/SEM-1/ON-CAMPUS/LECTURE_B/01",
+   "type": "Lecture B"
+ },
+ {
+   "unit_code": 6512,
+   "name": "Immunology/ON-CAMPUS/BRUCE/6512",
+   "description": "6512/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 6512,
+   "name": "Immunology/ON-CAMPUS/BRUCE/6512",
+   "description": "6512/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ONLINE/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ONLINE/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ON-CAMPUS/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ON-CAMPUS/LECTURE/02",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6540,
+   "name": "Introduction to Statistics/ONLINE/BRUCE/6540",
+   "description": "6540/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ON-CAMPUS/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ONLINE/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ONLINE/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 6554,
+   "name": "Introduction to Statistics G/ONLINE/BRUCE/6554",
+   "description": "6554/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6587,
+   "name": "Information Technology for the Workplace/ONLINE/BRUCE/6587",
+   "description": "6587/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/07",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/08",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/09",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/10",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/11",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/14",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ONLINE/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/05",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ON-CAMPUS/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_TUTORIAL/12",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6672,
+   "name": "Database Design G/ONLINE/BRUCE/6672",
+   "description": "6672/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6673,
+   "name": "Designing Human-Computer Interaction G/ON-CAMPUS/BRUCE/6673",
+   "description": "6673/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6673,
+   "name": "Designing Human-Computer Interaction G/ON-CAMPUS/BRUCE/6673",
+   "description": "6673/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6673,
+   "name": "Designing Human-Computer Interaction G/ON-CAMPUS/BRUCE/6673",
+   "description": "6673/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ONLINE/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ONLINE/DROP_IN-SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ON-CAMPUS/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ONLINE/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6676,
+   "name": "Professional Practice in IT G/ONLINE/BRUCE/6676",
+   "description": "6676/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Hybrid Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ONLINE/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ONLINE/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ON-CAMPUS/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ON-CAMPUS/LECTURE/03",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ONLINE/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ONLINE/LECTURE/03",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ONLINE/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6677,
+   "name": "Systems Analysis and Modelling G/ONLINE/BRUCE/6677",
+   "description": "6677/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ONLINE/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ONLINE/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ON-CAMPUS/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6678,
+   "name": "Systems Project and Quality Management G/ONLINE/BRUCE/6678",
+   "description": "6678/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6680,
+   "name": "Business Intelligence Systems PG/ON-CAMPUS/BRUCE/6680",
+   "description": "6680/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6680,
+   "name": "Business Intelligence Systems PG/ON-CAMPUS/BRUCE/6680",
+   "description": "6680/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6680,
+   "name": "Business Intelligence Systems PG/ON-CAMPUS/BRUCE/6680",
+   "description": "6680/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6680,
+   "name": "Business Intelligence Systems PG/ON-CAMPUS/BRUCE/6680",
+   "description": "6680/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6680,
+   "name": "Business Intelligence Systems PG/ON-CAMPUS/BRUCE/6680",
+   "description": "6680/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6680,
+   "name": "Business Intelligence Systems PG/ON-CAMPUS/BRUCE/6680",
+   "description": "6680/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 6682,
+   "name": "Information Security PG/ON-CAMPUS/BRUCE/6682",
+   "description": "6682/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6682,
+   "name": "Information Security PG/ON-CAMPUS/BRUCE/6682",
+   "description": "6682/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6682,
+   "name": "Information Security PG/ON-CAMPUS/BRUCE/6682",
+   "description": "6682/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6682,
+   "name": "Information Security PG/ON-CAMPUS/BRUCE/6682",
+   "description": "6682/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6682,
+   "name": "Information Security PG/ON-CAMPUS/BRUCE/6682",
+   "description": "6682/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6683,
+   "name": "IT and Business Alignment PG/ON-CAMPUS/BRUCE/6683",
+   "description": "6683/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6683,
+   "name": "IT and Business Alignment PG/ON-CAMPUS/BRUCE/6683",
+   "description": "6683/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6683,
+   "name": "IT and Business Alignment PG/ON-CAMPUS/BRUCE/6683",
+   "description": "6683/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6692,
+   "name": "High Speed Networks PG/ON-CAMPUS/BRUCE/6692",
+   "description": "6692/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6692,
+   "name": "High Speed Networks PG/ON-CAMPUS/BRUCE/6692",
+   "description": "6692/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 6692,
+   "name": "High Speed Networks PG/ON-CAMPUS/BRUCE/6692",
+   "description": "6692/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6698,
+   "name": "Discrete Mathematics/ON-CAMPUS/BRUCE/6698",
+   "description": "6698/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6698,
+   "name": "Discrete Mathematics/ON-CAMPUS/BRUCE/6698",
+   "description": "6698/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6698,
+   "name": "Discrete Mathematics/ON-CAMPUS/BRUCE/6698",
+   "description": "6698/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6698,
+   "name": "Discrete Mathematics/ON-CAMPUS/BRUCE/6698",
+   "description": "6698/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6698,
+   "name": "Discrete Mathematics/ON-CAMPUS/BRUCE/6698",
+   "description": "6698/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6699,
+   "name": "Discrete Mathematics G/ON-CAMPUS/BRUCE/6699",
+   "description": "6699/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6699,
+   "name": "Discrete Mathematics G/ON-CAMPUS/BRUCE/6699",
+   "description": "6699/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6699,
+   "name": "Discrete Mathematics G/ON-CAMPUS/BRUCE/6699",
+   "description": "6699/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6699,
+   "name": "Discrete Mathematics G/ON-CAMPUS/BRUCE/6699",
+   "description": "6699/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6699,
+   "name": "Discrete Mathematics G/ON-CAMPUS/BRUCE/6699",
+   "description": "6699/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/CONSULTATION/01",
+   "type": "Consultation"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/07",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ON-CAMPUS/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/08",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/04",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/05",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/06",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/07",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6797,
+   "name": "Inf. Sc. Research Methodology PG/ONLINE/BRUCE/6797",
+   "description": "6797/BRUCE/SEM-1/ONLINE/TUTORIAL/08",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 6798,
+   "name": "Inf. Sc. Research Proposal R/RESEARCH/BRUCE/6798",
+   "description": "6798/BRUCE/SEM-1/RESEARCH/WORKSHOP/01",
+   "type": "Workshop with Echo"
+ },
+ {
+   "unit_code": 7156,
+   "name": "Business Intelligence Systems/ON-CAMPUS/BRUCE/7156",
+   "description": "7156/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7156,
+   "name": "Business Intelligence Systems/ON-CAMPUS/BRUCE/7156",
+   "description": "7156/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7156,
+   "name": "Business Intelligence Systems/ON-CAMPUS/BRUCE/7156",
+   "description": "7156/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 7156,
+   "name": "Business Intelligence Systems/ON-CAMPUS/BRUCE/7156",
+   "description": "7156/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 7160,
+   "name": "Game Programming Techniques/ON-CAMPUS/BRUCE/7160",
+   "description": "7160/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7160,
+   "name": "Game Programming Techniques/ON-CAMPUS/BRUCE/7160",
+   "description": "7160/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 7160,
+   "name": "Game Programming Techniques/ON-CAMPUS/BRUCE/7160",
+   "description": "7160/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 7160,
+   "name": "Game Programming Techniques/ON-CAMPUS/BRUCE/7160",
+   "description": "7160/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7170,
+   "name": "Software Technology 2/ON-CAMPUS/BRUCE/7170",
+   "description": "7170/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/07",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ON-CAMPUS/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ONLINE/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ONLINE/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 7173,
+   "name": "Systems Project and Quality Management/ONLINE/BRUCE/7173",
+   "description": "7173/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7191,
+   "name": "Game Programming Techniques PG/ON-CAMPUS/BRUCE/7191",
+   "description": "7191/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 7191,
+   "name": "Game Programming Techniques PG/ON-CAMPUS/BRUCE/7191",
+   "description": "7191/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 7191,
+   "name": "Game Programming Techniques PG/ON-CAMPUS/BRUCE/7191",
+   "description": "7191/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/07",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/08",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/09",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ONLINE/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ONLINE/DROP_IN-SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ON-CAMPUS/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ONLINE/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ONLINE/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 7722,
+   "name": "Professional Practice in IT/ONLINE/BRUCE/7722",
+   "description": "7722/BRUCE/SEM-1/ONLINE/TUTORIAL/02",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 8027,
+   "name": "Clinical Microbiology/ON-CAMPUS/BRUCE/8027",
+   "description": "8027/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical A"
+ },
+ {
+   "unit_code": 8027,
+   "name": "Clinical Microbiology/ON-CAMPUS/BRUCE/8027",
+   "description": "8027/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical A"
+ },
+ {
+   "unit_code": 8027,
+   "name": "Clinical Microbiology/ON-CAMPUS/BRUCE/8027",
+   "description": "8027/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical B"
+ },
+ {
+   "unit_code": 8027,
+   "name": "Clinical Microbiology/ON-CAMPUS/BRUCE/8027",
+   "description": "8027/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical B"
+ },
+ {
+   "unit_code": 8027,
+   "name": "Clinical Microbiology/ON-CAMPUS/BRUCE/8027",
+   "description": "8027/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 8027,
+   "name": "Clinical Microbiology/ON-CAMPUS/BRUCE/8027",
+   "description": "8027/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 8224,
+   "name": "Electronics Systems/ON-CAMPUS/BRUCE/8224",
+   "description": "8224/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/01",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 8224,
+   "name": "Electronics Systems/ON-CAMPUS/BRUCE/8224",
+   "description": "8224/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/02",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 8224,
+   "name": "Electronics Systems/ON-CAMPUS/BRUCE/8224",
+   "description": "8224/BRUCE/SEM-1/ON-CAMPUS/LABORATORY/03",
+   "type": "Laboratory"
+ },
+ {
+   "unit_code": 8224,
+   "name": "Electronics Systems/ON-CAMPUS/BRUCE/8224",
+   "description": "8224/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 8227,
+   "name": "Wireless Networks/ON-CAMPUS/BRUCE/8227",
+   "description": "8227/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 8227,
+   "name": "Wireless Networks/ON-CAMPUS/BRUCE/8227",
+   "description": "8227/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 8227,
+   "name": "Wireless Networks/ON-CAMPUS/BRUCE/8227",
+   "description": "8227/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8227,
+   "name": "Wireless Networks/ON-CAMPUS/BRUCE/8227",
+   "description": "8227/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/03",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8227,
+   "name": "Wireless Networks/ON-CAMPUS/BRUCE/8227",
+   "description": "8227/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8520,
+   "name": "Information Technology for the Workplace G/ONLINE/BRUCE/8520",
+   "description": "8520/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 8772,
+   "name": "Biology 1/ON-CAMPUS/UCC-BRUCE/8772",
+   "description": "8772/UCC-BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8772,
+   "name": "Biology 1/ON-CAMPUS/UCC-BRUCE/8772",
+   "description": "8772/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8773,
+   "name": "Chemistry 1/ON-CAMPUS/UCC-BRUCE/8773",
+   "description": "8773/UCC-BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8773,
+   "name": "Chemistry 1/ON-CAMPUS/UCC-BRUCE/8773",
+   "description": "8773/UCC-BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 8773,
+   "name": "Chemistry 1/ON-CAMPUS/UCC-BRUCE/8773",
+   "description": "8773/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8774,
+   "name": "Introduction to Biology/ON-CAMPUS/UCC-BRUCE/8774",
+   "description": "8774/UCC-BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8774,
+   "name": "Introduction to Biology/ON-CAMPUS/UCC-BRUCE/8774",
+   "description": "8774/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8775,
+   "name": "Introduction to Chemistry/ON-CAMPUS/UCC-BRUCE/8775",
+   "description": "8775/UCC-BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8775,
+   "name": "Introduction to Chemistry/ON-CAMPUS/UCC-BRUCE/8775",
+   "description": "8775/UCC-BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 8775,
+   "name": "Introduction to Chemistry/ON-CAMPUS/UCC-BRUCE/8775",
+   "description": "8775/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8775,
+   "name": "Introduction to Chemistry/ON-CAMPUS/UCC-BRUCE/8775",
+   "description": "8775/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8776,
+   "name": "Introduction to Physical Science and Maths/ON-CAMPUS/UCC-BRUCE/8776",
+   "description": "8776/UCC-BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8776,
+   "name": "Introduction to Physical Science and Maths/ON-CAMPUS/UCC-BRUCE/8776",
+   "description": "8776/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8776,
+   "name": "Introduction to Physical Science and Maths/ON-CAMPUS/UCC-BRUCE/8776",
+   "description": "8776/UCC-BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 8779,
+   "name": "Forensic Science 2/ON-CAMPUS/BRUCE/8779",
+   "description": "8779/BRUCE/SEM-1/ON-CAMPUS/EXAM/01",
+   "type": "Exam"
+ },
+ {
+   "unit_code": 8779,
+   "name": "Forensic Science 2/ON-CAMPUS/BRUCE/8779",
+   "description": "8779/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 8779,
+   "name": "Forensic Science 2/ON-CAMPUS/BRUCE/8779",
+   "description": "8779/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8779,
+   "name": "Forensic Science 2/ON-CAMPUS/BRUCE/8779",
+   "description": "8779/BRUCE/SEM-1/ON-CAMPUS/PRESENTATION/01",
+   "type": "Presentation"
+ },
+ {
+   "unit_code": 8797,
+   "name": "Pathobiology/ON-CAMPUS/BRUCE/8797",
+   "description": "8797/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 8797,
+   "name": "Pathobiology/ON-CAMPUS/BRUCE/8797",
+   "description": "8797/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 8797,
+   "name": "Pathobiology/ON-CAMPUS/BRUCE/8797",
+   "description": "8797/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/01",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8797,
+   "name": "Pathobiology/ON-CAMPUS/BRUCE/8797",
+   "description": "8797/BRUCE/SEM-1/ON-CAMPUS/PRACTICAL/02",
+   "type": "Practical"
+ },
+ {
+   "unit_code": 8890,
+   "name": "Computer Vision and Image Analysis PG/ON-CAMPUS/BRUCE/8890",
+   "description": "8890/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8890,
+   "name": "Computer Vision and Image Analysis PG/ON-CAMPUS/BRUCE/8890",
+   "description": "8890/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8890,
+   "name": "Computer Vision and Image Analysis PG/ON-CAMPUS/BRUCE/8890",
+   "description": "8890/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/02",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 8890,
+   "name": "Computer Vision and Image Analysis PG/ON-CAMPUS/BRUCE/8890",
+   "description": "8890/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual/Online"
+ },
+ {
+   "unit_code": 8890,
+   "name": "Computer Vision and Image Analysis PG/ON-CAMPUS/BRUCE/8890",
+   "description": "8890/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop with Echo"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ON-CAMPUS/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ON-CAMPUS/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ON-CAMPUS/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ON-CAMPUS/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ON-CAMPUS/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ON-CAMPUS/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ONLINE/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 8936,
+   "name": "Introduction to Information Technology G/ONLINE/BRUCE/8936",
+   "description": "8936/BRUCE/SEM-1/ONLINE/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ON-CAMPUS/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ONLINE/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/01",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ONLINE/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ONLINE/COMPUTER_LAB/02",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ON-CAMPUS/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ONLINE/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ONLINE/DROP_IN_SESSION/01",
+   "type": "Virtual Drop in Session"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ON-CAMPUS/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 8995,
+   "name": "Software Technology 1 G/ONLINE/BRUCE/8995",
+   "description": "8995/BRUCE/SEM-1/ONLINE/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/08",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/08",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/09",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9074,
+   "name": "Introduction to Digital Forensics/ON-CAMPUS/BRUCE/9074",
+   "description": "9074/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Make up session"
+ },
+ {
+   "unit_code": 9075,
+   "name": "Introduction to Digital Forensics G/ON-CAMPUS/BRUCE/9075",
+   "description": "9075/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Make up session"
+ },
+ {
+   "unit_code": 9076,
+   "name": "Mobile Technologies G/ON-CAMPUS/BRUCE/9076",
+   "description": "9076/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9076,
+   "name": "Mobile Technologies G/ON-CAMPUS/BRUCE/9076",
+   "description": "9076/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9076,
+   "name": "Mobile Technologies G/ON-CAMPUS/BRUCE/9076",
+   "description": "9076/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9076,
+   "name": "Mobile Technologies G/ON-CAMPUS/BRUCE/9076",
+   "description": "9076/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/02",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/03",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/04",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/05",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/06",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/07",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/08",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/09",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/10",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/11",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9281,
+   "name": "Enterprise and Cloud Computing/ON-CAMPUS/BRUCE/9281",
+   "description": "9281/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/12",
+   "type": "Virtual Computer Lab"
+ },
+ {
+   "unit_code": 9369,
+   "name": "Social Media/ON-CAMPUS/BRUCE/9369",
+   "description": "9369/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Virtual Lecture"
+ },
+ {
+   "unit_code": 9369,
+   "name": "Social Media/ON-CAMPUS/BRUCE/9369",
+   "description": "9369/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9369,
+   "name": "Social Media/ON-CAMPUS/BRUCE/9369",
+   "description": "9369/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9369,
+   "name": "Social Media/ON-CAMPUS/BRUCE/9369",
+   "description": "9369/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9369,
+   "name": "Social Media/ON-CAMPUS/BRUCE/9369",
+   "description": "9369/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9436,
+   "name": "Social Media G/ON-CAMPUS/BRUCE/9436",
+   "description": "9436/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9436,
+   "name": "Social Media G/ON-CAMPUS/BRUCE/9436",
+   "description": "9436/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9436,
+   "name": "Social Media G/ON-CAMPUS/BRUCE/9436",
+   "description": "9436/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9783,
+   "name": "High Speed Networks/ON-CAMPUS/BRUCE/9783",
+   "description": "9783/BRUCE/SEM-1/ON-CAMPUS/COMPUTER_LAB/01",
+   "type": "Computer Lab"
+ },
+ {
+   "unit_code": 9783,
+   "name": "High Speed Networks/ON-CAMPUS/BRUCE/9783",
+   "description": "9783/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture A"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/02",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/03",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 9784,
+   "name": "Technology and Engineering Management PG/ON-CAMPUS/BRUCE/9784",
+   "description": "9784/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 9785,
+   "name": "Information & Communication Technology Project/ON-CAMPUS/BRUCE/9785",
+   "description": "9785/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 9785,
+   "name": "Information & Communication Technology Project/ON-CAMPUS/BRUCE/9785",
+   "description": "9785/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9785,
+   "name": "Information & Communication Technology Project/ON-CAMPUS/BRUCE/9785",
+   "description": "9785/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Virtual Workshop"
+ },
+ {
+   "unit_code": 9785,
+   "name": "Information & Communication Technology Project/ON-CAMPUS/BRUCE/9785",
+   "description": "9785/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9785,
+   "name": "Information & Communication Technology Project/ON-CAMPUS/BRUCE/9785",
+   "description": "9785/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/02",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9785,
+   "name": "Information & Communication Technology Project/ON-CAMPUS/BRUCE/9785",
+   "description": "9785/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/03",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9786,
+   "name": "Technology Project PG/ON-CAMPUS/BRUCE/9786",
+   "description": "9786/BRUCE/SEM-1/ON-CAMPUS/DROP_IN_SESSION/01",
+   "type": "Drop in Session"
+ },
+ {
+   "unit_code": 9786,
+   "name": "Technology Project PG/ON-CAMPUS/BRUCE/9786",
+   "description": "9786/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9786,
+   "name": "Technology Project PG/ON-CAMPUS/BRUCE/9786",
+   "description": "9786/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/01",
+   "type": "Virtual Workshop"
+ },
+ {
+   "unit_code": 9786,
+   "name": "Technology Project PG/ON-CAMPUS/BRUCE/9786",
+   "description": "9786/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/04",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9786,
+   "name": "Technology Project PG/ON-CAMPUS/BRUCE/9786",
+   "description": "9786/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/05",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9786,
+   "name": "Technology Project PG/ON-CAMPUS/BRUCE/9786",
+   "description": "9786/BRUCE/SEM-1/ON-CAMPUS/WORKSHOP/06",
+   "type": "Workshop"
+ },
+ {
+   "unit_code": 9789,
+   "name": "Technology and Engineering Management/ON-CAMPUS/BRUCE/9789",
+   "description": "9789/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture A"
+ },
+ {
+   "unit_code": 9789,
+   "name": "Technology and Engineering Management/ON-CAMPUS/BRUCE/9789",
+   "description": "9789/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/04",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 9789,
+   "name": "Technology and Engineering Management/ON-CAMPUS/BRUCE/9789",
+   "description": "9789/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/05",
+   "type": "Tutorial"
+ },
+ {
+   "unit_code": 9789,
+   "name": "Technology and Engineering Management/ON-CAMPUS/BRUCE/9789",
+   "description": "9789/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 9789,
+   "name": "Technology and Engineering Management/ON-CAMPUS/BRUCE/9789",
+   "description": "9789/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/06",
+   "type": "Virtual Tutorial"
+ },
+ {
+   "unit_code": 9826,
+   "name": "ICT and Engineering Research Methods/ON-CAMPUS/BRUCE/9826",
+   "description": "9826/BRUCE/SEM-1/ON-CAMPUS/LECTURE/01",
+   "type": "Lecture"
+ },
+ {
+   "unit_code": 9826,
+   "name": "ICT and Engineering Research Methods/ON-CAMPUS/BRUCE/9826",
+   "description": "9826/BRUCE/SEM-1/ON-CAMPUS/TUTORIAL/01",
+   "type": "Tutorial"
+ }
+]
