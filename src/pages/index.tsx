@@ -16,7 +16,7 @@ interface HomeProps {
 
 export default function Home({ token, roleCode }: HomeProps) {
   const [isClient, setIsClient] = useState(false);
-  const { workloadData, workloadLoading } = useWorkload();
+  const { workloadData, workloadLoading } = useWorkload(null);
 
   useEffect(() => {
     setIsClient(true);

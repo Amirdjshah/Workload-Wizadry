@@ -16,7 +16,10 @@ export const acceptWorkloadApi = ({ id }: any): Promise<{ data: any }> => {
 export const rejectWorkloadApi = (data: any): Promise<{ data: any }> => {
   return axios.post(`/api/workload/reject/${data?.id}`, data);
 };
-export const getWorkloadApi = (): Promise<{ data: any }> => {
+export const getWorkloadApi = (f: string | null): Promise<{ data: any }> => {
+    if(f){
+        return axios?.get(`/api/workload?type=${f}`)
+    }
   return axios.get(`/api/workload`);
 };
 export const getWorkloadSingleApi = (id: string): Promise<{ data: any }> => {

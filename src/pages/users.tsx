@@ -28,8 +28,8 @@ export default function Users({ token }: HomeProps) {
   ): GridColDef[] => {
     return [
       {
-        field: "id",
-        headerName: "User ID",
+        field: "sn",
+        headerName: "S.N",
       },
       { field: "email", headerName: "Email", flex: 0.7 },
       {

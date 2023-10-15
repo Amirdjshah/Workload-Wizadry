@@ -1,6 +1,6 @@
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import {
-    acceptWorkloadApi,
+  acceptWorkloadApi,
   deleteWorkloadApi,
   editWorkloadAPi,
   getWorkloadApi,
@@ -10,13 +10,20 @@ import {
 } from "../workload";
 
 const WORKLOAD_SERVER_KEY = "workload";
+const WORKLOAD_SERVER_KEY_FILTER = "workload_filters";
 const WORKLOAD_SINGLE_SERVER_KEY = "workloads";
 
-const useWorkload = () => {
-  const workloadList = useQuery([WORKLOAD_SERVER_KEY], getWorkloadApi, {
+const useWorkload = (filter: any) => {
+  let f: string | null = null;
+  if (filter) {
+    if (filter?.type) {
+      f = filter?.type;
+    }
+  }
+  const key = f ? WORKLOAD_SERVER_KEY_FILTER : WORKLOAD_SERVER_KEY;
+  const workloadList = useQuery([key], () => getWorkloadApi(f), {
     enabled: true,
     onError: (error) => {
-      console.log("Error", error);
     },
     select: (data) => {
       return data?.data;

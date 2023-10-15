@@ -87,6 +87,7 @@ const AcademicVisualization: React.FC<any> = ({ workloadData }) => {
               <AppointmentTypeChart
                 data={unitAndStudents}
                 index={1}
+                onClick={() => {}}
                 customWidth={400}
                 customHeight={400}
               />

@@ -25,6 +25,7 @@ interface IProps {
 interface IPropsColor {
   data: any;
   index: number;
+  onClick: (data?: any) => void;
   customWidth?: number;
   customHeight?: number;
 }
@@ -74,7 +75,7 @@ const AppointmentTypeChart: React.FC<IPropsColor> = ({
   );
 };
 
-const AppointmentTypePieChart: React.FC<IPropsColor> = ({ data, index }) => {
+const AppointmentTypePieChart: React.FC<IPropsColor> = ({ data, index, onClick }) => {
   const COLORSET1 = ["#0088FE", "#FFBB28", "#FAC"];
   const COLORSET2 = ["#00C49F", "#FF8042", "#E2C"];
 
@@ -100,7 +101,7 @@ const AppointmentTypePieChart: React.FC<IPropsColor> = ({ data, index }) => {
           label
         >
           {data.map((entry: any, i: any) => (
-            <Cell key={`cell-${index}`} fill={getRandomColor(i)} />
+            <Cell key={`cell-${index}`} onClick={() => onClick(entry)} fill={getRandomColor(i)} />
           ))}
         </Pie>
         <Tooltip />

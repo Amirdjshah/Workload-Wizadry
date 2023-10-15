@@ -1,3 +1,5 @@
+"use client";
+
 import { Divider, Grid, Typography } from "@mui/material";
 import styles from "./style.module.scss";
 import {
@@ -5,7 +7,6 @@ import {
   AppointmentTypePieChart,
   StackedBarChart,
 } from "./core";
-import { useWorkload } from "../../../lib/hooks/workload";
 import {
   workloadByAppointmentType,
   workloadByDeliveryMode,
@@ -14,6 +15,7 @@ import {
   workloadBynewStaffAllowance,
 } from "./utils";
 import { useEffect, useState } from "react";
+import { useRouter } from "next/router";
 
 const VisualizationData: React.FC<any> = ({ workloadData }) => {
   const [appointmentType, setAppointmentType] = useState<any[]>([]);
@@ -26,6 +28,8 @@ const VisualizationData: React.FC<any> = ({ workloadData }) => {
     const data = workloadByAppointmentType(d);
     setAppointmentType(data);
   };
+
+  const router = useRouter();
 
   const getWorkloadByNewStaffAllowance = (d: any) => {
     const data = workloadBynewStaffAllowance(d);
@@ -54,6 +58,12 @@ const VisualizationData: React.FC<any> = ({ workloadData }) => {
     }
   }, [workloadData]);
 
+  const onCliCkAppointmentType = (data: any) => {
+    if (data?.type) {
+      router.push(`/workload/filter?type=${data?.type}`);
+    }
+  };
+
   return (
     <Grid container justifyContent={"space-between"}>
       {appointmentType && appointmentType.length > 0 && (
@@ -73,7 +83,11 @@ const VisualizationData: React.FC<any> = ({ workloadData }) => {
             </Grid>
 
             <Grid item xs={12} textAlign={"center"}>
-              <AppointmentTypePieChart data={appointmentType} index={1} />
+              <AppointmentTypePieChart
+                onClick={onCliCkAppointmentType}
+                data={appointmentType}
+                index={1}
+              />
             </Grid>
           </div>
         </Grid>
@@ -93,7 +107,11 @@ const VisualizationData: React.FC<any> = ({ workloadData }) => {
               <Divider />
             </Grid>
             <Grid item xs={12} textAlign={"center"}>
-              <AppointmentTypeChart data={newStaffAllowance} index={1} />
+              <AppointmentTypeChart
+                data={newStaffAllowance}
+                onClick={() => {}}
+                index={1}
+              />
             </Grid>
           </div>
         </Grid>
@@ -113,7 +131,11 @@ const VisualizationData: React.FC<any> = ({ workloadData }) => {
               <Divider />
             </Grid>
             <Grid item xs={12} textAlign={"center"}>
-              <AppointmentTypeChart data={semesterPoint} index={2} />
+              <AppointmentTypeChart
+                onClick={() => {}}
+                data={semesterPoint}
+                index={2}
+              />
             </Grid>
           </div>
         </Grid>
@@ -134,30 +156,34 @@ const VisualizationData: React.FC<any> = ({ workloadData }) => {
               <Divider />
             </Grid>
             <Grid item xs={12} textAlign={"center"}>
-              <AppointmentTypePieChart data={workloadStatus} index={2} />
+              <AppointmentTypePieChart
+                onClick={() => {}}
+                data={workloadStatus}
+                index={2}
+              />
             </Grid>
           </div>
         </Grid>
       )}
       {deliveryMode && deliveryMode.length > 0 && (
-      <Grid item xs={12} md={12}>
-        <div className={styles.cardWithBorder}>
-          <Grid item xs={12}>
-            <Typography
-              fontSize={18}
-              fontWeight={500}
-              paddingBottom={4}
-              color={"gray"}
-            >
-              Delivery Mode By Students
-            </Typography>
-            <Divider />
-          </Grid>
-          <Grid item xs={12} textAlign={"center"}>
-            <StackedBarChart data={deliveryMode} />
-          </Grid>
-        </div>
-      </Grid>
+        <Grid item xs={12} md={12}>
+          <div className={styles.cardWithBorder}>
+            <Grid item xs={12}>
+              <Typography
+                fontSize={18}
+                fontWeight={500}
+                paddingBottom={4}
+                color={"gray"}
+              >
+                Delivery Mode By Students
+              </Typography>
+              <Divider />
+            </Grid>
+            <Grid item xs={12} textAlign={"center"}>
+              <StackedBarChart data={deliveryMode} />
+            </Grid>
+          </div>
+        </Grid>
       )}
     </Grid>
   );

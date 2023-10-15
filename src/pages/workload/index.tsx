@@ -73,7 +73,7 @@ const columns: GridColDef[] = [
 ];
 
 export default function Workload() {
-  const { workloadData, workloadLoading } = useWorkload();
+  const { workloadData, workloadLoading } = useWorkload(null);
   const { deleteWorkload } = useModifyWorkload();
   const [isClient, setIsClient] = useState(false);
 

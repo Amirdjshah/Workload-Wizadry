@@ -50,8 +50,18 @@ const useUsers = () => {
     },
   });
 
+  let data = [];
+  if (userLists?.data?.allUsers && userLists?.data?.allUsers.length > 0) {
+    data = userLists?.data?.allUsers.map((item: any, index: number) => {
+      return {
+        ...item,
+        sn: index + 1,
+      };
+    });
+  }
+
   return {
-    userList: userLists?.data?.allUsers,
+    userList: data,
     loading: userLists?.isLoading,
   };
 };

@@ -104,17 +104,28 @@ const getHandler = async (
   try {
     // check usr role
     const role = req?.user?.role?.roleCode;
+    const query = req.query;
+    const type = query?.type;
+
     let workload = null;
     if (role === "CL" || role === "FL") {
-      workload = await prisma.workload.findMany({
-        where: {
-          status: {
-            in: ["PENDING", "APPROVED", "REJECTED"],
-          },
-          user: {
-            faculty_id: req?.user?.faculty?.id,
-          },
+      const where: any = {
+        status: {
+          in: ["PENDING", "APPROVED", "REJECTED"],
         },
+        user: {
+          faculty_id: req?.user?.faculty?.id,
+        },
+      };
+
+      if (type) {
+        where.meta = {
+          path: ["appointmentType"],
+          equals: type,
+        };
+      }
+      workload = await prisma.workload.findMany({
+        where,
         include: {
           user: true,
         },
