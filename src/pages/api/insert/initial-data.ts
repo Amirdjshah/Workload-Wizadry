@@ -6,7 +6,7 @@ const feedRole = async () => {
   const data: Prisma.RoleCreateManyInput[] = [
     {
       id: 1,
-      roleName: "Faculty Leader",
+      roleName: "Faculty Manager",
       description: "Faculty Manager is the top role",
       isVisible: true,
       roleCode: "FL",

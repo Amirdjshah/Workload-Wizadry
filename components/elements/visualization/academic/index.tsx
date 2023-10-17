@@ -58,15 +58,15 @@ const AcademicVisualization: React.FC<any> = ({ workloadData }) => {
     <Grid container justifyContent={"space-between"}>
       <Grid item xs={12} marginBottom={2}>
         <Grid container justifyContent={"space-between"}>
-          <Grid item xs={3.5}>
+          <Grid item xs={5}>
             <StudentCard value={totalStudents} />
           </Grid>
-          <Grid item xs={3.5}>
+          <Grid item xs={5}>
             <UnitCard value={totalUnit} />
           </Grid>
-          <Grid item xs={3.5}>
+          {/* <Grid item xs={3.5}>
             <SubjectCard value={totalSubject} />
-          </Grid>
+          </Grid> */}
         </Grid>
       </Grid>
       {unitAndStudents && unitAndStudents.length > 0 && (
