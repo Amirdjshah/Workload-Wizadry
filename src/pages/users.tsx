@@ -1,16 +1,34 @@
 "use client";
 
-import { DashboardLayout, Table } from "../../components";
+import { DashboardLayout } from "../../components";
 
 import { parseCookies } from "nookies";
 import { useModifyUsers, useUser, useUsers } from "../../lib/hooks/user";
-import { GridColDef } from "@mui/x-data-grid";
+import { DataGrid, GridColDef } from "@mui/x-data-grid";
 import { Button, Grid, useMediaQuery } from "@mui/material";
 import { enqueueSnackbar } from "notistack";
 import { formatErrorMessage } from "../../components/utils/formatError";
-import { useContext } from "react";
-import { AuthContext } from "../../components/context/authContext";
+import { useEffect, useState } from "react";
 
+const ALL_COLUMNS = {
+    sn: true,
+    email: true,
+    name: true,
+    isVerified: true,
+    isApproved: true,
+    role: true,
+    action: true,
+}
+
+const MOBILE_COLUMNS = {
+    sn: true,
+    email: false,
+    name: true,
+    isApproved: true,
+    isVerified: false,
+    role: false,
+    action: true,
+}
 interface HomeProps {
   token: string;
 }
@@ -19,7 +37,14 @@ export default function Users({ token }: HomeProps) {
   const { userList, loading } = useUsers();
   const { myData } = useUser();
   const { rejectUser, approveUser, deleteUser } = useModifyUsers();
-  const matches = useMediaQuery("(min-width:1200px)");
+  const sm = useMediaQuery((theme: any) => theme.breakpoints.up('sm'));
+  const md = useMediaQuery((theme: any) => theme.breakpoints.up('md'));
+  const [columnVisible, setColumnVisible] = useState<any>(ALL_COLUMNS)
+
+  useEffect(() => {
+    const newColumns = !md ? MOBILE_COLUMNS : ALL_COLUMNS;
+    setColumnVisible(newColumns);
+  }, [md]);
 
   const columns = (
     onApprove: any,
@@ -30,8 +55,9 @@ export default function Users({ token }: HomeProps) {
       {
         field: "sn",
         headerName: "S.N",
+        flex: sm ? 0 : 0.2,
       },
-      { field: "email", headerName: "Email", flex: 0.7 },
+      { field: "email", headerName: "Email", flex: 0.6 },
       {
         field: "name",
         headerName: "Name",
@@ -40,8 +66,8 @@ export default function Users({ token }: HomeProps) {
           return data?.row?.firstName + " " + data?.row?.lastName;
         },
       },
-      { field: "isVerified", headerName: "Is Verified", flex: 0.4 },
-      { field: "isApproved", headerName: "Is Approved", flex: 0.4 },
+      { field: "isVerified", headerName: "Is Verified", flex: sm ? 0.2 : 0.4 },
+      { field: "isApproved", headerName: "Is Approved", flex: sm ?  0.2 : 0.4 },
       {
         field: "role",
         headerName: "Role",
@@ -52,7 +78,7 @@ export default function Users({ token }: HomeProps) {
       },
       {
         field: "action",
-        flex: !matches ? 1 : 0.5,
+        flex: sm ? 1 : 0.5,
         headerName: "Action",
         renderCell: (data) => {
           if (data?.row?.isApproved === false) {
@@ -165,10 +191,30 @@ export default function Users({ token }: HomeProps) {
   return (
     <>
       <DashboardLayout>
-        <Table
+        <DataGrid
+          rows={userNewList || []}
+          initialState={{}}
+          rowSelection={false}
+          columnHeaderHeight={55}
           loading={loading}
-          data={userNewList || []}
+        //   sx={sx}
           columns={columns(onApprove, onReject, onDelete)}
+          columnVisibilityModel={columnVisible}
+          pageSizeOptions={[10, 25, 50]}
+          slots={{
+            noRowsOverlay: () => (
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  height: "100%",
+                  alignItems: "center",
+                }}
+              >
+                <p>No data found !!!</p>
+              </div>
+            ),
+          }}
         />
       </DashboardLayout>
     </>
@@ -181,5 +227,5 @@ export const getServerSideProps = (ctx: any) => {
     ctx?.res?.writeHead(302, { Location: "/login" });
     ctx?.res?.end();
   }
-  return { props: {token }};
+  return { props: { token } };
 };
